@@ -60,7 +60,7 @@ function init() {
   dLight2.position.set(-200, 500, 200);
   camera.add(dLight2);
 
-  camera.position.z = 400;
+  camera.position.z = 200;
   camera.position.x = 0;
   camera.position.y = 0;
 
@@ -82,10 +82,10 @@ function init() {
   controls.enableDamping = true;
   controls.dynamicDampingFactor = 0.01;
   controls.enablePan = false;
-  controls.minDistance = 200;
+  controls.minDistance = 130;
   controls.maxDistance = 500;
   controls.rotateSpeed = 0.8;
-  controls.zoomSpeed = 1;
+  controls.zoomSpeed = 0.5;
   controls.autoRotate = false;
 
   controls.minPolarAngle = Math.PI / 3.5;
@@ -141,7 +141,7 @@ function initGlobe() {
         return e.text === "ALA" ? "top" : "right";
       })
       .labelDotRadius(0.3)
-      .labelSize((e) => e.size)
+      .labelSize((e) => e.size * 0.4)
       .labelText("city")
       .labelResolution(6)
       .labelAltitude(0.01)

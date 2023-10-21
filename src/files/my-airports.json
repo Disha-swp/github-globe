@@ -2,84 +2,92 @@
     "type": "AirportsCollection",
     "airports": [
         {
-            "text": "FRU",
+            "text": "BWR",
             "size": 1.0,
-            "country": "Kyrgyzstan",
-            "city": "Bishkek",
-            "lat": "42.85",
-            "lng": "74.583333333"
+            "country": "India",
+            "city": "Beawar",
+            "lat": "26.100735",
+            "lng": "74.319077"
         },
         {
-            "text": "TAS",
+            "text": "DGR",
             "size": 1.0,
-            "country": "Uzbekistan",
-            "city": "Tashkent",
-            "lat": "41.266666666667",
-            "lng": "69.366666666667"
+            "country": "India",
+            "city": "Durgapur",
+            "lat": "23.533440",
+            "lng": "87.321930"
         },
         {
-            "text": "ALA",
+            "text": "HW",
             "size": 1.0,
-            "country": "Kazakhstan",
-            "city": "Almaty",
-            "lat": "43.35",
-            "lng": "75.033333333333"
+            "country": "India",
+            "city": "Haridwar",
+            "lat": "29.945690",
+            "lng": "78.164246"
         },
         {
-            "text": "ICN",
+            "text": "TATA",
             "size": 1.0,
-            "country": "South Korea",
-            "city": "Incheon",
-            "lat": "37.472222222222",
-            "lng": "126.60833333333"
+            "country": "India",
+            "city": "Jamshedpur",
+            "lat": "22.8046",
+            "lng": "86.2029"
         },
         {
-            "text": "KJA",
+            "text": "BBSR",
             "size": 1.0,
-            "country": "Russia",
-            "city": "Krasnoyarsk",
-            "lat": "56.05",
-            "lng": "92.9"
+            "country": "India",
+            "city": "Bhubaneswar",
+            "lat": "20.2961",
+            "lng": "85.8245"
         },
         {
-            "text": "OVB",
+            "text": "MAS",
             "size": 1.0,
-            "country": "Russia",
-            "city": "Novosibirsk",
-            "lat": "55.033333333333",
-            "lng": "83"
+            "country": "India",
+            "city": "Chennai",
+            "lat": "13.0827",
+            "lng": "80.2707"
         },
         {
-            "text": "KUL",
+            "text": "PDY",
             "size": 1.0,
-            "country": "Malaysia",
-            "city": "Kuala-Lumpur",
-            "lat": "3.11666666666",
-            "lng": "101.7"
+            "country": "India",
+            "city": "Puducherry",
+            "lat": "11.9416",
+            "lng": "79.8083"
         },
         {
-            "text": "SIN",
+            "text": "KOAA",
             "size": 1.0,
-            "country": "Singapore",
-            "city": "Singapore",
-            "lat": "1.2916666666667",
-            "lng": "103.85"
+            "country": "India",
+            "city": "Kolkata",
+            "lat": "22.5726",
+            "lng": "88.3639"
         },
         {
-            "text": "DPS",
+            "text": "BLR",
             "size": 1.0,
-            "country": "Indonesia",
-            "city": "Denpasar",
-            "lat": "-8.75",
-            "lng": "115.16666666667"
+            "country": "India",
+            "city": "Bangalore",
+            "lat": "12.9716",
+            "lng": "77.5946"
         },
         {
-            "text": "DMK",
+            "text": "PURI",
             "size": 1.0,
-            "country": "Thailand",
-            "city": "Bangkok",
-            "lat": "13.9255",
-            "lng": "100.5923"
+            "country": "India",
+            "city": "Puri",
+            "lat": "19.8135",
+            "lng": "85.8312"
+        },
+        {
+            "text": "RNC",
+            "size": 1.0,
+            "country": "India",
+            "city": "Ranchi",
+            "lat": "23.3441",
+            "lng": "85.3096"
         },
         {
             "text": "BKK",

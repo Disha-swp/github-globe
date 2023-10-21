@@ -9,6 +9,7 @@ module.exports = {
     open: false,
     hot: true,
     writeToDisk: true,
+    port: 8081
   },
   plugins: [],
   module: {
